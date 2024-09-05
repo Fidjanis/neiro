@@ -1,0 +1,10 @@
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\bin\Debug\35_2_kim_lab_1.exe.config
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\bin\Debug\35_2_kim_lab_1.exe
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\bin\Debug\35_2_kim_lab_1.pdb
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\35_2_kim_lab_1.csproj.AssemblyReference.cache
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\_35_2_kim_lab_1.Form1.resources
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\_35_2_kim_lab_1.Properties.Resources.resources
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\35_2_kim_lab_1.csproj.GenerateResource.cache
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\35_2_kim_lab_1.csproj.CoreCompileInputs.cache
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\35_2_kim_lab_1.exe
+Z:\35_2_kim_lab_1\35_2_kim_lab_1\obj\Debug\35_2_kim_lab_1.pdb
